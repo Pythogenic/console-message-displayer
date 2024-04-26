@@ -1,0 +1,1 @@
+C:\Users\fabian_privat.FABIAN-LAPTOP\repos\SimTechScreen\build\classes\java\main\com\simtech\screen\MessageController.class;C:\Users\fabian_privat.FABIAN-LAPTOP\repos\SimTechScreen\build\classes\java\main\com\simtech\screen\SimTechScreenApplication.class
